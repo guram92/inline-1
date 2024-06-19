@@ -1,0 +1,36 @@
+#a1 {
+   width: 100px ;
+   height: 150px ;
+   background-color: #FF0000;
+   display: inline-block;
+}
+#a2 {
+   width: 100px ;
+   height: 150px ;
+   background-color: #FAFF00;
+   display: inline-block;
+}
+#a3 {
+   width: 100px ;
+   height: 150px ;
+   background-color: #05FF00;
+   display: inline-block;
+}
+#a4 {
+   width: 100px ;
+   height: 150px ;
+   background-color: #0500FF;
+   display: inline-block;
+}
+#a5 {
+   width: 100px ;
+   height: 150px ;
+   background-color: #FA00FF;
+   display: inline-block;
+}
+#a6 {
+    width: 100px;
+    height: 150px;
+    background-color: #00FFF0;
+    display: inline-block;
+}
